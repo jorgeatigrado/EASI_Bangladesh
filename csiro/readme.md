@@ -12,6 +12,6 @@ To use:
 To contribute:
 - `git checkout -b <branch-name>` -- Create a new branch (named something other than "<branch-name>")
 - `git add <files>` -- Add your new files to the "staging" area
-- `git commit -m <message>` -- Commit your staged changed to the local git log/commit history with a helpful "message"
-- `git push` --- Push your branch to the remote repo
+- `git commit -m <message>` -- Commit your staged changed to the local git log/commit history with a helpful "message" in between inverted commas.
+- `git push --set-upstream origin <branch name>` --- Push your branch to the remote repo
 - Go to https://github.com/jorgeatigrado/EASI_Bangladesh and create Pull Request (PR) from your branch to the "main" branch.
